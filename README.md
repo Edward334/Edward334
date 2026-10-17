@@ -4,7 +4,7 @@
 
 ### Building quietly, learning every day.
 
-高中一年级学生 · Vibe Coding 重度依赖者
+高一学生Vibe重度依赖
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=8BABC7&center=true&vCenter=true&width=520&lines=Curious+by+nature%2C+building+by+practice.;Web+projects+%C2%B7+small+tools+%C2%B7+open+source.;Learning+one+commit+at+a+time." alt="Animated introduction" />
 
@@ -18,8 +18,8 @@
 ## About
 
 ```text
-高中一年级学生，Vibe Coding 重度依赖中，正在把好奇心变成一个个能运行的项目。
-主要参与 AP（Abyssal Puzzle）系列网页制作，也喜欢折腾工具与开源项目。
+高中一年级学生，Vibe Coding 重度依赖，经常用agent写点没啥用的项目。
+主要参与过 AP（Abyssal Puzzle）（黑历史？）系列网页制作，也喜欢折腾开源项目。
 ```
 
 ## Selected work
