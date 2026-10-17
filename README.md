@@ -26,10 +26,7 @@
 
 | Project | What it is |
 |:--|:--|
-| [ai_homework_helper](https://github.com/Edward334/ai_homework_helper) | A homework helper project |
-| [Letterly](https://github.com/Edward334/Letterly) | AI mail assistant with notifications and a web UI |
-| [SPlayer-mobile](https://github.com/Edward334/SPlayer-mobile) | Cross-platform music player |
-| [OpenList-Worker](https://github.com/Edward334/OpenList-Worker) | Service Worker backend for OpenList |
+| [Hugo Blog](https://github.com/Edward334/hugo-blog) | 我的个人博客，使用 Hugo 构建，记录日常与技术笔记。 [Visit the blog](https://blog.astryn.top/) |
 
 ## GitHub activity
 
