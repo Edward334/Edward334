@@ -32,8 +32,6 @@
 | [Tools Web](https://github.com/Edward334/tools-web) | Web 工具集合。 [Open the app](https://tools-web-three.vercel.app) |
 | [AI Homework Helper](https://github.com/Edward334/ai_homework_helper) | Dart 编写的学习辅助项目。 |
 | [Phi Res Extract](https://github.com/Edward334/Phi_Res_Extract) | Dart 编写的 Phi 资源提取工具。 |
-| [Vespera](https://github.com/Edward334/Vespera) | Compose Multiplatform 项目。 |
-| [Android Markdown Editor](https://github.com/Edward334/android-markdown-editer) | Android Markdown 编辑器。 |
 
 ## GitHub activity
 
